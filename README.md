@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakheebshaik&label=Profile%20views&color=0e75b6&style=flat" alt="rakheebshaik" /> </p>
 
-- I’m currently working on **A personal Assistant with Dashboard**
-
-- I’m currently learning **Pytorch and Keras for user friendly Deep learning entry**
-
-- I’m looking to collaborate on **any AL&ML projects**
+- I’m currently working as Crypto currency trader in a Hedge Fund**
 
 - You can reach to me from **Shaikrakheeb280@gmail.com**
 
